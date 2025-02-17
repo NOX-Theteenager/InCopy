@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\transfert\\datatransfertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\transfert\\datatransfertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\clipboard\\clipboardwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\clipboard\\clipboardwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\clipboard\\clipboardnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\clipboard\\clipboardnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\discovery\\discoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\discovery\\discoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\discovery\\activeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\discovery\\activeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\incopy5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\incopy5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|c:\\users\\psyco root\\documents\\projets\\incopy5\\incopy5\\ui\\consoleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14DBC33-7588-4D68-8487-9E8EC8870768}|InCopy5\\InCopy5.csproj|solutionrelative:incopy5\\ui\\consoleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleInterface.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\UI\\ConsoleInterface.cs",
+              "RelativeDocumentMoniker": "InCopy5\\UI\\ConsoleInterface.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\UI\\ConsoleInterface.cs",
+              "RelativeToolTip": "InCopy5\\UI\\ConsoleInterface.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAIBQwEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:26:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTransfertService.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Transfert\\DataTransfertService.cs",
+              "RelativeDocumentMoniker": "InCopy5\\Transfert\\DataTransfertService.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Transfert\\DataTransfertService.cs",
+              "RelativeToolTip": "InCopy5\\Transfert\\DataTransfertService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:23:20.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClipboardNotification.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\ClipBoard\\ClipboardNotification.cs",
+              "RelativeDocumentMoniker": "InCopy5\\ClipBoard\\ClipboardNotification.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\ClipBoard\\ClipboardNotification.cs",
+              "RelativeToolTip": "InCopy5\\ClipBoard\\ClipboardNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:17:15.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClipBoardWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\ClipBoard\\ClipBoardWatcher.cs",
+              "RelativeDocumentMoniker": "InCopy5\\ClipBoard\\ClipBoardWatcher.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\ClipBoard\\ClipBoardWatcher.cs",
+              "RelativeToolTip": "InCopy5\\ClipBoard\\ClipBoardWatcher.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAEwE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:15:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActiveUser.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Discovery\\ActiveUser.cs",
+              "RelativeDocumentMoniker": "InCopy5\\Discovery\\ActiveUser.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Discovery\\ActiveUser.cs",
+              "RelativeToolTip": "InCopy5\\Discovery\\ActiveUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:08:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscoveryService.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Discovery\\DiscoveryService.cs",
+              "RelativeDocumentMoniker": "InCopy5\\Discovery\\DiscoveryService.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Discovery\\DiscoveryService.cs",
+              "RelativeToolTip": "InCopy5\\Discovery\\DiscoveryService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:08:53.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Program.cs",
+              "RelativeDocumentMoniker": "InCopy5\\Program.cs",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\Program.cs",
+              "RelativeToolTip": "InCopy5\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:05:54.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InCopy5.csproj",
+              "DocumentMoniker": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\InCopy5.csproj",
+              "RelativeDocumentMoniker": "InCopy5\\InCopy5.csproj",
+              "ToolTip": "C:\\Users\\PSYCO ROOT\\Documents\\Projets\\InCopy5\\InCopy5\\InCopy5.csproj",
+              "RelativeToolTip": "InCopy5\\InCopy5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T09:47:14.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

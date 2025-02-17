@@ -1,0 +1,75 @@
+Voici la section 2 révisée dans son intégralité, avec l’étude des variations, des asymptotes, et les moments de la distribution.
+
+---
+
+### 2. **Caractéristiques Mathématiques de la Loi Normale**
+
+**Fonction de densité de probabilité (fdp)**  
+La loi normale est définie par une fonction de densité de probabilité (fdp) qui permet de modéliser la probabilité d’observer une certaine valeur pour une variable aléatoire. Cette fonction est donnée par la formule suivante :
+
+\[
+f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}}
+\]
+
+Où :
+- **μ** est la moyenne (le centre de la distribution),
+- **σ** est l’écart-type (qui mesure la dispersion des données),
+- **x** est la variable aléatoire.
+
+**Interprétation simple :**  
+Cette formule montre que la probabilité d’observer une valeur \( x \) est d’autant plus élevée que cette valeur est proche de la moyenne \( μ \). Inversement, plus \( x \) s’éloigne de \( μ \), plus la probabilité d’observer cette valeur diminue rapidement. Ce comportement se traduit graphiquement par une courbe en cloche.
+
+---
+
+**Étude de la fonction de densité**  
+
+1. **Comportement de la fonction** :
+   - La fonction \( f(x) \) atteint son maximum en \( x = μ \), indiquant que la valeur la plus probable est la moyenne.
+   - La fonction décroît à mesure que \( x \) s’éloigne de \( μ \), reflétant la baisse de probabilité pour les valeurs éloignées de la moyenne.
+
+2. **Asymptotes** :
+   - La fonction de densité de probabilité n’a pas d’asymptotes classiques. Bien que les valeurs de \( f(x) \) deviennent très proches de zéro pour \( x \) tendant vers l’infini (à droite et à gauche), la fonction n’atteint jamais exactement zéro. Cela signifie qu'il existe toujours une probabilité non nulle, même pour des valeurs extrêmes, mais celle-ci est très faible.
+
+3. **Calcul des dérivées** :
+   - La première dérivée de la fonction de densité, \( f'(x) \), permet d’analyser les variations de la fonction :
+     \[
+     f'(x) = -\frac{(x - \mu)}{\sigma^2} f(x)
+     \]
+   - La dérivée est nulle lorsque \( x = μ \), ce qui indique un maximum local en ce point.
+   - Elle est négative pour \( x > μ \) et positive pour \( x < μ \), confirmant que la fonction est croissante jusqu’à \( μ \) et décroissante au-delà. Cela montre la symétrie parfaite autour de la moyenne.
+
+4. **Visualisation et points d’inflexion** :
+   - En traçant la fonction \( f(x) \), on obtient une courbe symétrique en forme de cloche centrée autour de \( μ \).
+   - Les points d’inflexion, où la concavité de la courbe change, se trouvent aux abscisses \( μ - σ \) et \( μ + σ \). Ces points marquent les endroits où la pente de la courbe diminue plus lentement, indiquant que la majeure partie des données se trouve entre ces points.
+
+---
+
+**Courbe en cloche**  
+La courbe de la loi normale, également appelée **courbe en cloche**, présente plusieurs caractéristiques :
+- **Symétrie** : La courbe est parfaitement symétrique autour de la moyenne \( μ \).
+- **Concentration des valeurs** : Dans une distribution normale, les valeurs sont concentrées autour de la moyenne. Les probabilités de s’éloigner significativement de la moyenne sont faibles.
+- **68-95-99,7%** : Un principe fondamental de la loi normale est que :
+  - Environ 68 % des valeurs se situent à moins d’un écart-type \( σ \) de la moyenne \( μ \),
+  - Environ 95 % des valeurs se trouvent à moins de deux écarts-types,
+  - Environ 99,7 % des valeurs se trouvent à moins de trois écarts-types.
+
+---
+
+**Moments de la distribution**  
+Les moments d’une distribution sont des paramètres statistiques qui caractérisent sa forme. Dans le cas de la loi normale, les moments les plus importants sont les suivants :
+
+- **La moyenne (μ)** : C’est le premier moment, et il indique le centre de la distribution, autour duquel les données sont symétriquement réparties.
+- **La variance (σ²)** : Le deuxième moment, qui mesure la dispersion des valeurs autour de la moyenne. L’écart-type \( σ \) est la racine carrée de la variance et détermine la largeur de la courbe.
+- **L’asymétrie (skewness)** : La loi normale est parfaitement symétrique, donc son coefficient d’asymétrie est nul. Dans des distributions asymétriques, ce coefficient serait différent de zéro.
+- **La kurtose (kurtosis)** : Ce moment décrit la forme des queues de la distribution. La loi normale a une kurtose de 3, ce qui signifie que ses queues ne sont ni trop épaisses (plus de valeurs extrêmes) ni trop fines (moins de valeurs extrêmes).
+
+---
+
+### Objectif de cette section :
+- Comprendre les bases mathématiques de la loi normale en analysant la fonction de densité de probabilité.
+- Explorer les variations de la fonction de densité pour mieux visualiser la courbe en cloche.
+- Appréhender les moments de la distribution pour décrire des caractéristiques clés comme la moyenne, la variance et l’asymétrie.
+
+---
+
+Cette section intègre une étude complète des caractéristiques mathématiques, des variations de la fonction de densité, et des moments de la distribution. Est-ce que cela correspond à ce que tu souhaitais pour la partie 2 ?

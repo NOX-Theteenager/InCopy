@@ -1,0 +1,7 @@
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\InCopy5.exe
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\InCopy5.dll
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\InCopy5.deps.json
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\InCopy5.runtimeconfig.json
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\InCopy5.pdb
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Emmanuel\source\repos\InCopy5\InCopy5\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
